@@ -42,6 +42,7 @@
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
     "chai": "^3.5.0",
+    "codecov": "^3.5.0",
     "connect-modrewrite": "^0.10.1",
     "derequire": "^2.0.0",
     "es6-promise": "^4.2.6",
